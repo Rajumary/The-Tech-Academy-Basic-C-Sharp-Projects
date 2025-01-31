@@ -1,0 +1,15 @@
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Assignmentdailyreport\Assignmentdailyreport\bin\Debug\net8.0\Assignmentdailyreport.exe
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Assignmentdailyreport\Assignmentdailyreport\bin\Debug\net8.0\Assignmentdailyreport.deps.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Assignmentdailyreport\Assignmentdailyreport\bin\Debug\net8.0\Assignmentdailyreport.runtimeconfig.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Assignmentdailyreport\Assignmentdailyreport\bin\Debug\net8.0\Assignmentdailyreport.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Assignmentdailyreport\Assignmentdailyreport\bin\Debug\net8.0\Assignmentdailyreport.pdb
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Assignmentdailyreport\Assignmentdailyreport\obj\Debug\net8.0\Assignmentdailyreport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Assignmentdailyreport\Assignmentdailyreport\obj\Debug\net8.0\Assignmentdailyreport.AssemblyInfoInputs.cache
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Assignmentdailyreport\Assignmentdailyreport\obj\Debug\net8.0\Assignmentdailyreport.AssemblyInfo.cs
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Assignmentdailyreport\Assignmentdailyreport\obj\Debug\net8.0\Assignmentdailyreport.csproj.CoreCompileInputs.cache
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Assignmentdailyreport\Assignmentdailyreport\obj\Debug\net8.0\Assignmentdailyreport.sourcelink.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Assignmentdailyreport\Assignmentdailyreport\obj\Debug\net8.0\Assignmentdailyreport.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Assignmentdailyreport\Assignmentdailyreport\obj\Debug\net8.0\refint\Assignmentdailyreport.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Assignmentdailyreport\Assignmentdailyreport\obj\Debug\net8.0\Assignmentdailyreport.pdb
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Assignmentdailyreport\Assignmentdailyreport\obj\Debug\net8.0\Assignmentdailyreport.genruntimeconfig.cache
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Assignmentdailyreport\Assignmentdailyreport\obj\Debug\net8.0\ref\Assignmentdailyreport.dll
