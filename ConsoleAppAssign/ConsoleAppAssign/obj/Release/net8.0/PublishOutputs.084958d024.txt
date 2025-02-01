@@ -1,0 +1,5 @@
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssign\ConsoleAppAssign.exe
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssign\ConsoleAppAssign.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssign\ConsoleAppAssign.deps.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssign\ConsoleAppAssign.runtimeconfig.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssign\ConsoleAppAssign.pdb

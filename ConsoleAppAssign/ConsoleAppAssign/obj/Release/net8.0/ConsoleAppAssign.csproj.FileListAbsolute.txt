@@ -1,0 +1,15 @@
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssign\ConsoleAppAssign\bin\Release\net8.0\ConsoleAppAssign.exe
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssign\ConsoleAppAssign\bin\Release\net8.0\ConsoleAppAssign.deps.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssign\ConsoleAppAssign\bin\Release\net8.0\ConsoleAppAssign.runtimeconfig.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssign\ConsoleAppAssign\bin\Release\net8.0\ConsoleAppAssign.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssign\ConsoleAppAssign\bin\Release\net8.0\ConsoleAppAssign.pdb
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssign\ConsoleAppAssign\obj\Release\net8.0\ConsoleAppAssign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssign\ConsoleAppAssign\obj\Release\net8.0\ConsoleAppAssign.AssemblyInfoInputs.cache
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssign\ConsoleAppAssign\obj\Release\net8.0\ConsoleAppAssign.AssemblyInfo.cs
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssign\ConsoleAppAssign\obj\Release\net8.0\ConsoleAppAssign.csproj.CoreCompileInputs.cache
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssign\ConsoleAppAssign\obj\Release\net8.0\ConsoleAppAssign.sourcelink.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssign\ConsoleAppAssign\obj\Release\net8.0\ConsoleAppAssign.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssign\ConsoleAppAssign\obj\Release\net8.0\refint\ConsoleAppAssign.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssign\ConsoleAppAssign\obj\Release\net8.0\ConsoleAppAssign.pdb
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssign\ConsoleAppAssign\obj\Release\net8.0\ConsoleAppAssign.genruntimeconfig.cache
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssign\ConsoleAppAssign\obj\Release\net8.0\ref\ConsoleAppAssign.dll

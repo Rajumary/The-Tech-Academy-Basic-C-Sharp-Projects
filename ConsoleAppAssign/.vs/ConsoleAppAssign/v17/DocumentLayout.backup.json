@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\ConsoleAppAssign\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0443C1C3-E408-40D9-A276-9A6752D319BB}|ConsoleAppAssign\\ConsoleAppAssign.csproj|c:\\users\\rajum\\onedrive\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\consoleappassign\\consoleappassign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0443C1C3-E408-40D9-A276-9A6752D319BB}|ConsoleAppAssign\\ConsoleAppAssign.csproj|solutionrelative:consoleappassign\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\ConsoleAppAssign\\ConsoleAppAssign\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppAssign\\Program.cs",
+              "ToolTip": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\ConsoleAppAssign\\ConsoleAppAssign\\Program.cs",
+              "RelativeToolTip": "ConsoleAppAssign\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T02:57:11.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
