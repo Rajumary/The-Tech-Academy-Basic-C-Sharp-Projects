@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\String\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0953A734-EC6A-4EEA-8640-FAD4770E48AE}|String\\String.csproj|c:\\users\\rajum\\onedrive\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\string\\string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0953A734-EC6A-4EEA-8640-FAD4770E48AE}|String\\String.csproj|solutionrelative:string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\String\\String\\Program.cs",
+              "RelativeDocumentMoniker": "String\\Program.cs",
+              "ToolTip": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\String\\String\\Program.cs",
+              "RelativeToolTip": "String\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T03:03:24.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
