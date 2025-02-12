@@ -1,0 +1,15 @@
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Mainmethod\Mainmethod\bin\Release\net8.0\Mainmethod.exe
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Mainmethod\Mainmethod\bin\Release\net8.0\Mainmethod.deps.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Mainmethod\Mainmethod\bin\Release\net8.0\Mainmethod.runtimeconfig.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Mainmethod\Mainmethod\bin\Release\net8.0\Mainmethod.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Mainmethod\Mainmethod\bin\Release\net8.0\Mainmethod.pdb
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Mainmethod\Mainmethod\obj\Release\net8.0\Mainmethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Mainmethod\Mainmethod\obj\Release\net8.0\Mainmethod.AssemblyInfoInputs.cache
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Mainmethod\Mainmethod\obj\Release\net8.0\Mainmethod.AssemblyInfo.cs
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Mainmethod\Mainmethod\obj\Release\net8.0\Mainmethod.csproj.CoreCompileInputs.cache
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Mainmethod\Mainmethod\obj\Release\net8.0\Mainmethod.sourcelink.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Mainmethod\Mainmethod\obj\Release\net8.0\Mainmethod.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Mainmethod\Mainmethod\obj\Release\net8.0\refint\Mainmethod.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Mainmethod\Mainmethod\obj\Release\net8.0\Mainmethod.pdb
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Mainmethod\Mainmethod\obj\Release\net8.0\Mainmethod.genruntimeconfig.cache
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Mainmethod\Mainmethod\obj\Release\net8.0\ref\Mainmethod.dll
