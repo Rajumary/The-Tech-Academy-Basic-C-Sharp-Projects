@@ -1,0 +1,15 @@
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethod\CallingMethod\bin\Release\net8.0\CallingMethod.exe
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethod\CallingMethod\bin\Release\net8.0\CallingMethod.deps.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethod\CallingMethod\bin\Release\net8.0\CallingMethod.runtimeconfig.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethod\CallingMethod\bin\Release\net8.0\CallingMethod.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethod\CallingMethod\bin\Release\net8.0\CallingMethod.pdb
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethod\CallingMethod\obj\Release\net8.0\CallingMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethod\CallingMethod\obj\Release\net8.0\CallingMethod.AssemblyInfoInputs.cache
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethod\CallingMethod\obj\Release\net8.0\CallingMethod.AssemblyInfo.cs
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethod\CallingMethod\obj\Release\net8.0\CallingMethod.csproj.CoreCompileInputs.cache
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethod\CallingMethod\obj\Release\net8.0\CallingMethod.sourcelink.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethod\CallingMethod\obj\Release\net8.0\CallingMethod.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethod\CallingMethod\obj\Release\net8.0\refint\CallingMethod.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethod\CallingMethod\obj\Release\net8.0\CallingMethod.pdb
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethod\CallingMethod\obj\Release\net8.0\CallingMethod.genruntimeconfig.cache
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethod\CallingMethod\obj\Release\net8.0\ref\CallingMethod.dll
