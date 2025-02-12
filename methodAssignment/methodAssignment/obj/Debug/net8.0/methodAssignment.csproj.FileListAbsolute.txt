@@ -1,0 +1,15 @@
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\methodAssignment\methodAssignment\bin\Debug\net8.0\methodAssignment.exe
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\methodAssignment\methodAssignment\bin\Debug\net8.0\methodAssignment.deps.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\methodAssignment\methodAssignment\bin\Debug\net8.0\methodAssignment.runtimeconfig.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\methodAssignment\methodAssignment\bin\Debug\net8.0\methodAssignment.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\methodAssignment\methodAssignment\bin\Debug\net8.0\methodAssignment.pdb
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\methodAssignment\methodAssignment\obj\Debug\net8.0\methodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\methodAssignment\methodAssignment\obj\Debug\net8.0\methodAssignment.AssemblyInfoInputs.cache
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\methodAssignment\methodAssignment\obj\Debug\net8.0\methodAssignment.AssemblyInfo.cs
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\methodAssignment\methodAssignment\obj\Debug\net8.0\methodAssignment.csproj.CoreCompileInputs.cache
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\methodAssignment\methodAssignment\obj\Debug\net8.0\methodAssignment.sourcelink.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\methodAssignment\methodAssignment\obj\Debug\net8.0\methodAssignment.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\methodAssignment\methodAssignment\obj\Debug\net8.0\refint\methodAssignment.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\methodAssignment\methodAssignment\obj\Debug\net8.0\methodAssignment.pdb
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\methodAssignment\methodAssignment\obj\Debug\net8.0\methodAssignment.genruntimeconfig.cache
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\methodAssignment\methodAssignment\obj\Debug\net8.0\ref\methodAssignment.dll
