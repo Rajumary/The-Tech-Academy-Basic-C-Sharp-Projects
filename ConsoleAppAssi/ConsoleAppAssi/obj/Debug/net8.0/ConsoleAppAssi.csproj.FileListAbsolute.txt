@@ -1,0 +1,15 @@
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssi\ConsoleAppAssi\bin\Debug\net8.0\ConsoleAppAssi.exe
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssi\ConsoleAppAssi\bin\Debug\net8.0\ConsoleAppAssi.deps.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssi\ConsoleAppAssi\bin\Debug\net8.0\ConsoleAppAssi.runtimeconfig.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssi\ConsoleAppAssi\bin\Debug\net8.0\ConsoleAppAssi.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssi\ConsoleAppAssi\bin\Debug\net8.0\ConsoleAppAssi.pdb
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssi\ConsoleAppAssi\obj\Debug\net8.0\ConsoleAppAssi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssi\ConsoleAppAssi\obj\Debug\net8.0\ConsoleAppAssi.AssemblyInfoInputs.cache
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssi\ConsoleAppAssi\obj\Debug\net8.0\ConsoleAppAssi.AssemblyInfo.cs
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssi\ConsoleAppAssi\obj\Debug\net8.0\ConsoleAppAssi.csproj.CoreCompileInputs.cache
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssi\ConsoleAppAssi\obj\Debug\net8.0\ConsoleAppAssi.sourcelink.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssi\ConsoleAppAssi\obj\Debug\net8.0\ConsoleAppAssi.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssi\ConsoleAppAssi\obj\Debug\net8.0\refint\ConsoleAppAssi.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssi\ConsoleAppAssi\obj\Debug\net8.0\ConsoleAppAssi.pdb
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssi\ConsoleAppAssi\obj\Debug\net8.0\ConsoleAppAssi.genruntimeconfig.cache
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleAppAssi\ConsoleAppAssi\obj\Debug\net8.0\ref\ConsoleAppAssi.dll
