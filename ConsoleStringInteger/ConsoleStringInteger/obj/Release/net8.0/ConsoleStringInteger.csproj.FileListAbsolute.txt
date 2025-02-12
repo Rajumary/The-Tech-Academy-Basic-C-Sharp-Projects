@@ -1,0 +1,15 @@
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleStringInteger\ConsoleStringInteger\bin\Release\net8.0\ConsoleStringInteger.exe
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleStringInteger\ConsoleStringInteger\bin\Release\net8.0\ConsoleStringInteger.deps.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleStringInteger\ConsoleStringInteger\bin\Release\net8.0\ConsoleStringInteger.runtimeconfig.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleStringInteger\ConsoleStringInteger\bin\Release\net8.0\ConsoleStringInteger.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleStringInteger\ConsoleStringInteger\bin\Release\net8.0\ConsoleStringInteger.pdb
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleStringInteger\ConsoleStringInteger\obj\Release\net8.0\ConsoleStringInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleStringInteger\ConsoleStringInteger\obj\Release\net8.0\ConsoleStringInteger.AssemblyInfoInputs.cache
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleStringInteger\ConsoleStringInteger\obj\Release\net8.0\ConsoleStringInteger.AssemblyInfo.cs
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleStringInteger\ConsoleStringInteger\obj\Release\net8.0\ConsoleStringInteger.csproj.CoreCompileInputs.cache
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleStringInteger\ConsoleStringInteger\obj\Release\net8.0\ConsoleStringInteger.sourcelink.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleStringInteger\ConsoleStringInteger\obj\Release\net8.0\ConsoleStringInteger.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleStringInteger\ConsoleStringInteger\obj\Release\net8.0\refint\ConsoleStringInteger.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleStringInteger\ConsoleStringInteger\obj\Release\net8.0\ConsoleStringInteger.pdb
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleStringInteger\ConsoleStringInteger\obj\Release\net8.0\ConsoleStringInteger.genruntimeconfig.cache
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleStringInteger\ConsoleStringInteger\obj\Release\net8.0\ref\ConsoleStringInteger.dll
