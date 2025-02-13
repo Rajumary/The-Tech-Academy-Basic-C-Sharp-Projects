@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\BlackJackGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12BB8158-5BEB-4053-8225-51AA5E52EB8F}|BlackJackGame\\BlackJackGame.csproj|c:\\users\\rajum\\onedrive\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\blackjackgame\\blackjackgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BB8158-5BEB-4053-8225-51AA5E52EB8F}|BlackJackGame\\BlackJackGame.csproj|solutionrelative:blackjackgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\BlackJackGame\\BlackJackGame\\Program.cs",
+              "RelativeDocumentMoniker": "BlackJackGame\\Program.cs",
+              "ToolTip": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\BlackJackGame\\BlackJackGame\\Program.cs",
+              "RelativeToolTip": "BlackJackGame\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T21:07:55.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
