@@ -1,0 +1,15 @@
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstact\Abstact\bin\Debug\net8.0\Abstact.exe
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstact\Abstact\bin\Debug\net8.0\Abstact.deps.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstact\Abstact\bin\Debug\net8.0\Abstact.runtimeconfig.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstact\Abstact\bin\Debug\net8.0\Abstact.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstact\Abstact\bin\Debug\net8.0\Abstact.pdb
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstact\Abstact\obj\Debug\net8.0\Abstact.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstact\Abstact\obj\Debug\net8.0\Abstact.AssemblyInfoInputs.cache
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstact\Abstact\obj\Debug\net8.0\Abstact.AssemblyInfo.cs
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstact\Abstact\obj\Debug\net8.0\Abstact.csproj.CoreCompileInputs.cache
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstact\Abstact\obj\Debug\net8.0\Abstact.sourcelink.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstact\Abstact\obj\Debug\net8.0\Abstact.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstact\Abstact\obj\Debug\net8.0\refint\Abstact.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstact\Abstact\obj\Debug\net8.0\Abstact.pdb
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstact\Abstact\obj\Debug\net8.0\Abstact.genruntimeconfig.cache
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Abstact\Abstact\obj\Debug\net8.0\ref\Abstact.dll
