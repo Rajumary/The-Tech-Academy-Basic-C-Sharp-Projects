@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodsandObject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F2AEA3B-7FF2-44DD-97A0-BBFAEFEE205A}|MethodsandObject\\MethodsandObject.csproj|c:\\users\\rajum\\onedrive\\documents\\github\\the-tech-academy-basic-c-sharp-projects\\methodsandobject\\methodsandobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F2AEA3B-7FF2-44DD-97A0-BBFAEFEE205A}|MethodsandObject\\MethodsandObject.csproj|solutionrelative:methodsandobject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodsandObject\\MethodsandObject\\Program.cs",
+              "RelativeDocumentMoniker": "MethodsandObject\\Program.cs",
+              "ToolTip": "C:\\Users\\rajum\\OneDrive\\Documents\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodsandObject\\MethodsandObject\\Program.cs",
+              "RelativeToolTip": "MethodsandObject\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwCEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T04:25:30.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

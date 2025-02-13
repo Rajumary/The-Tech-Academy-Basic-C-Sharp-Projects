@@ -1,0 +1,15 @@
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsandObject\MethodsandObject\bin\Debug\net8.0\MethodsandObject.exe
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsandObject\MethodsandObject\bin\Debug\net8.0\MethodsandObject.deps.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsandObject\MethodsandObject\bin\Debug\net8.0\MethodsandObject.runtimeconfig.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsandObject\MethodsandObject\bin\Debug\net8.0\MethodsandObject.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsandObject\MethodsandObject\bin\Debug\net8.0\MethodsandObject.pdb
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsandObject\MethodsandObject\obj\Debug\net8.0\MethodsandObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsandObject\MethodsandObject\obj\Debug\net8.0\MethodsandObject.AssemblyInfoInputs.cache
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsandObject\MethodsandObject\obj\Debug\net8.0\MethodsandObject.AssemblyInfo.cs
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsandObject\MethodsandObject\obj\Debug\net8.0\MethodsandObject.csproj.CoreCompileInputs.cache
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsandObject\MethodsandObject\obj\Debug\net8.0\MethodsandObject.sourcelink.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsandObject\MethodsandObject\obj\Debug\net8.0\MethodsandObject.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsandObject\MethodsandObject\obj\Debug\net8.0\refint\MethodsandObject.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsandObject\MethodsandObject\obj\Debug\net8.0\MethodsandObject.pdb
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsandObject\MethodsandObject\obj\Debug\net8.0\MethodsandObject.genruntimeconfig.cache
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MethodsandObject\MethodsandObject\obj\Debug\net8.0\ref\MethodsandObject.dll
