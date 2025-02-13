@@ -1,0 +1,9 @@
+﻿<configuraion>
+	<connetionStrings>
+		<add name="SchoolContext"
+			 connectionString="Data Source=(LocalDb) \MSSQLLocalDB;Initial Catalog=SchoolDB; Integrated Security=True"
+			 ProviderName="System.Data.SqlClient" />
+			 
+	</connetionStrings>
+</configuraion>
+
