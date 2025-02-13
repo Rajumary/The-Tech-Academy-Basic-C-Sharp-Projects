@@ -1,0 +1,15 @@
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatch\TryCatch\bin\Release\net8.0\TryCatch.exe
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatch\TryCatch\bin\Release\net8.0\TryCatch.deps.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatch\TryCatch\bin\Release\net8.0\TryCatch.runtimeconfig.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatch\TryCatch\bin\Release\net8.0\TryCatch.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatch\TryCatch\bin\Release\net8.0\TryCatch.pdb
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatch\TryCatch\obj\Release\net8.0\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatch\TryCatch\obj\Release\net8.0\TryCatch.AssemblyInfoInputs.cache
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatch\TryCatch\obj\Release\net8.0\TryCatch.AssemblyInfo.cs
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatch\TryCatch\obj\Release\net8.0\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatch\TryCatch\obj\Release\net8.0\TryCatch.sourcelink.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatch\TryCatch\obj\Release\net8.0\TryCatch.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatch\TryCatch\obj\Release\net8.0\refint\TryCatch.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatch\TryCatch\obj\Release\net8.0\TryCatch.pdb
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatch\TryCatch\obj\Release\net8.0\TryCatch.genruntimeconfig.cache
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatch\TryCatch\obj\Release\net8.0\ref\TryCatch.dll
