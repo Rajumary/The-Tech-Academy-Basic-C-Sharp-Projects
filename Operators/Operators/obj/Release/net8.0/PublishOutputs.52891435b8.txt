@@ -1,0 +1,5 @@
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators\Operators.exe
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators\Operators.dll
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators\Operators.deps.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators\Operators.runtimeconfig.json
+C:\Users\rajum\OneDrive\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Operators\Operators.pdb
